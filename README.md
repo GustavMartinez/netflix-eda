@@ -104,3 +104,13 @@ Resúmen:
 4. Analizar
 5. Visualizar
 6. Concluir
+
+
+## Anotaciones
+
+Regla general
+
+Siempre que haya:
+
+fechas como texto → convertirlas
+fechas → extraer año y mes
